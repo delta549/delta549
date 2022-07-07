@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @delta549
+- 👋 Hi, I’m @delta549 Or Wes!
 
 - 👀 I’m interested in:
     
