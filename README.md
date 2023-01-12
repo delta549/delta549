@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @delta549 Or Wes!
+👋 Hi, I’m @delta549 Or Wes!
 
-- 👀 I’m interested in:
+👀 I’m interested in:
     
     GO
     
-    REACT
-- 🌱 I’m currently learning:
+    JS (REACT Framework)
     
-    GO
+    RUST
     
-    REACT
-
+    Python
